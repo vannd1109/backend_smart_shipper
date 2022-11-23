@@ -1,0 +1,8 @@
+{
+    "ext": "js json",
+    "env": {
+        "MONGO_USER": "vannd.dev",
+        "MONGO_PASS" : "Vannd.dev3004@",
+        "MONGO_DB" : "smart_shipper_dev"
+    }
+}
